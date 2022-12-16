@@ -34,7 +34,7 @@ while True:
         elif answers == 13:
             print("You should eat at Jimmy Johns.")
         elif answers == 14:
-            print("You should trust me roll again.")
+            print("You should trust me, roll again.")
         elif answers == 15:
             print("You should eat Salad & Veggies.")
             
