@@ -4,7 +4,7 @@ import random
 while True:
     question = input("Are you hungry?: ")
     
-    answers = random.randint(1, 8)
+    answers = random.randint(1, 15)
 
     if question == "yes":
         if answers == 1:
